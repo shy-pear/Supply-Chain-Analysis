@@ -22,7 +22,7 @@ Often, companies receive a large quantity of raw data from various parts of the 
 Supply Chain Data: https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis
 
 ## Limitations and Next Steps
-There are several ways to expand this project, mainly by continuing the analysis in areas of transportation and routing. Furthermore, this dataset has limited data. Companies are likely to keep track of more details, which can be very useful to produce more detailed and viable predictions and recommendations.
+There are several ways to expand this project, mainly by continuing the analysis in areas of transportation and routing. Furthermore, this dataset has limited data. Companies are likely to keep track of more features, which can be very useful to produce more detailed and viable predictions and recommendations.
 
-Another way to expand the project is by displaying visuals using a data visualization platform such as Power BI which can help me produce more detailed visuals.
+Another way to expand the project is by displaying visuals using a data visualization platform, which can help me produce more extensive visuals.
 
