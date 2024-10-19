@@ -4,6 +4,7 @@ Supply chain data from cosmetics company is broken down into three categories so
 - Product Profits and Demand
 - Inventory Metrics
 - Procurement and Production Metrics
+
 For each category, several key metrics are visualized and analyzed. Regression models are used to predict values important for businesses to predict in order to optimize production and maximize profits, such as demand, defect rates, and stock levels. The gradient boost neural network LGBoost is also tested for demand forecasting. A data correlation map to detect multicollinearity of variables and assist feature selection for machine learning.
 
 ## Motivation and Goal
